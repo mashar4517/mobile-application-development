@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">125106893646-hgshafgh2ri5jt6u68l0c5gde261g17j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://madprojectfinal-5f239.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">125106893646</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8KY--E8XBOmXZswOTFsiGzdZ5ZV-kC80</string>
+    <string name="google_app_id" translatable="false">1:125106893646:android:24ad010b4b339f8b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8KY--E8XBOmXZswOTFsiGzdZ5ZV-kC80</string>
+    <string name="google_storage_bucket" translatable="false">madprojectfinal-5f239.appspot.com</string>
+    <string name="project_id" translatable="false">madprojectfinal-5f239</string>
+</resources>

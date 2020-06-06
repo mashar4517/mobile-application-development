@@ -1,0 +1,4 @@
+#Fri May 17 03:31:42 PKT 2019
+base.0=C\:\\Users\\Osama\\Desktop\\ORS\\MadProjectFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

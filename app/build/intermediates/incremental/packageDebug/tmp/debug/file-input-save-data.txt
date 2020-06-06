@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri May 17 03:31:43 PKT 2019
+1.base=C\:\\Users\\Osama\\Desktop\\ORS\\MadProjectFinal\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Osama\\Desktop\\ORS\\MadProjectFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=crashlytics-build.properties
